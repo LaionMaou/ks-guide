@@ -5,7 +5,8 @@
             "host": "Laion",
             "start_time": "12:00:00",
             "end_time": "13:30:00",
-            "image_url": "https:\/\/stream.host-cx.net.ar\/api\/station\/3\/streamer\/6\/art-1729630863.jpg"
+            "image_url": "https:\/\/stream.host-cx.net.ar\/api\/station\/3\/streamer\/6\/art-1729630863.jpg",
+            "category": "Radio"
         }
     ],
     "Martes": [
@@ -14,14 +15,16 @@
             "host": "Mitawi",
             "start_time": "15:00:00",
             "end_time": "18:00:00",
-            "image_url": "https:\/\/stream.host-cx.net.ar\/api\/station\/3\/streamer\/14\/art-1746048629.jpg"
+            "image_url": "https:\/\/stream.host-cx.net.ar\/api\/station\/3\/streamer\/14\/art-1746048629.jpg",
+            "category": "Radio"
         },
         {
             "title": "Deacon (Twitch)",
             "host": "Deacon",
             "start_time": "19:00:00",
             "end_time": "22:00:00",
-            "image_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/b1fa970b-6491-462c-b404-18c83138b54f-profile_image-70x70.png"
+            "image_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/b1fa970b-6491-462c-b404-18c83138b54f-profile_image-70x70.png",
+            "category": "Twitch"
         }
     ],
     "Miércoles": [
@@ -30,7 +33,8 @@
             "host": "Pancito Mojado",
             "start_time": "22:00:00",
             "end_time": "23:30:00",
-            "image_url": "https://i.postimg.cc/02JD0JMn/pan-foto-perfil.png"
+            "image_url": "https://i.postimg.cc/02JD0JMn/pan-foto-perfil.png",
+            "category": "Radio"
         }
     ],
     "Jueves": [
@@ -39,7 +43,8 @@
             "host": "Reylish",
             "start_time": "22:00:00",
             "end_time": "23:00:00",
-            "image_url": "https://i.postimg.cc/sgdS6D5r/Reylish.webp"
+            "image_url": "https://i.postimg.cc/sgdS6D5r/Reylish.webp",
+            "category": "Radio"
         }
     ],
     "Viernes": [
@@ -48,14 +53,16 @@
             "host": "Ka",
             "start_time": "11:30:00",
             "end_time": "12:00:00",
-            "image_url": "https:\/\/i.postimg.cc\/BvDt7tdS\/02-HD-2024.png"
+            "image_url": "https:\/\/i.postimg.cc\/BvDt7tdS\/02-HD-2024.png",
+            "category": "Radio"
         },
         {
             "title": "Deacon (Twitch)",
             "host": "Deacon",
             "start_time": "20:30:00",
             "end_time": "23:00:00",
-            "image_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/b1fa970b-6491-462c-b404-18c83138b54f-profile_image-70x70.png"
+            "image_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/b1fa970b-6491-462c-b404-18c83138b54f-profile_image-70x70.png",
+            "category": "Twitch"
         }
     ],
     "Sábado": [
@@ -64,7 +71,8 @@
             "host": "Ovejita (Nagisa)",
             "start_time": "20:00:00",
             "end_time": "21:00:00",
-            "image_url": "https://i.postimg.cc/KcWtT5z4/9a19aa4d342692e571b5aa9a9a48c2d8.jpg"
+            "image_url": "https://i.postimg.cc/KcWtT5z4/9a19aa4d342692e571b5aa9a9a48c2d8.jpg",
+            "category": "Radio"
         }
     ]
 }
