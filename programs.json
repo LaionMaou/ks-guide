@@ -5,7 +5,7 @@
             "host": "Laion",
             "start_time": "12:00:00",
             "end_time": "13:30:00",
-            "image_url": "https:\/\/stream.host-cx.net.ar\/api\/station\/3\/streamer\/6\/art-1729630863.jpg",
+            "image_url": "https:\/\/i.postimg.cc\/BbmczBh8\/Laion-PFP.jpg",
             "category": "Radio"
         }
     ],
@@ -15,7 +15,7 @@
             "host": "Mitawi",
             "start_time": "15:00:00",
             "end_time": "18:00:00",
-            "image_url": "https://i.postimg.cc/tg7By4vM/Mitawi-PFP.png",
+            "image_url": "https:\/\/i.postimg.cc\/tg7By4vM\/Mitawi-PFP.png",
             "category": "Radio"
         },
         {
@@ -23,7 +23,7 @@
             "host": "Deacon",
             "start_time": "19:00:00",
             "end_time": "22:00:00",
-            "image_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/b1fa970b-6491-462c-b404-18c83138b54f-profile_image-70x70.png",
+            "image_url": "https:\/\/i.postimg.cc\/d3fn19Gb\/Deacon-PFP.png",
             "category": "Twitch"
         }
     ],
@@ -33,17 +33,25 @@
             "host": "Pancito Mojado",
             "start_time": "22:00:00",
             "end_time": "23:30:00",
-            "image_url": "https://i.postimg.cc/xjmFcqjr/pancito-pfp.png",
+            "image_url": "https:\/\/i.postimg.cc\/xjmFcqjr\/pancito-pfp.png",
             "category": "Radio"
         }
     ],
     "Jueves": [
         {
+            "title": "Transmisión en Twitch",
+            "host": "Ingus",
+            "start_time": "00:00:00",
+            "end_time": "01:00:00",
+            "image_url": "https:\/\/i.postimg.cc\/Nf6Vf3KY\/Ingus-PFP.png",
+            "category": "Twitch"
+        },
+        {
             "title": "EveryBody Stand Up",
             "host": "Reylish",
             "start_time": "22:00:00",
             "end_time": "23:00:00",
-            "image_url": "https://i.postimg.cc/65NbRwT8/Reylish-pfp.webp",
+            "image_url": "https:\/\/i.postimg.cc\/65NbRwT8\/Reylish-pfp.webp",
             "category": "Radio"
         }
     ],
@@ -61,7 +69,7 @@
             "host": "Deacon",
             "start_time": "20:30:00",
             "end_time": "23:00:00",
-            "image_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/b1fa970b-6491-462c-b404-18c83138b54f-profile_image-70x70.png",
+            "image_url": "https:\/\/i.postimg.cc\/d3fn19Gb\/Deacon-PFP.png",
             "category": "Twitch"
         }
     ],
@@ -71,7 +79,7 @@
             "host": "Ovejita (Nagisa)",
             "start_time": "20:00:00",
             "end_time": "21:00:00",
-            "image_url": "https://i.postimg.cc/LX96hGfw/ovejita-PFP.png",
+            "image_url": "https:\/\/i.postimg.cc\/LX96hGfw\/ovejita-PFP.png",
             "category": "Radio"
         }
     ]
