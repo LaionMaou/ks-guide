@@ -1,10 +1,10 @@
 {
   "Lunes": [
     {
-      "title": "KS al Mediodía",
+      "title": "Rising K-Chan",
       "host": "Laion",
-      "start_time": "12:00:00",
-      "end_time": "13:30:00",
+      "start_time": "13:30:00",
+      "end_time": "15:00:00",
       "image_url": "https://i.postimg.cc/BbmczBh8/Laion-PFP.jpg",
       "category": "Radio"
     }
@@ -83,10 +83,18 @@
   ],
   "Sábado": [
     {
+      "title": "Transmisión de Twitch\t",
+      "host": "Deacon",
+      "start_time": "19:00:00",
+      "end_time": "22:00:00",
+      "image_url": "https://i.postimg.cc/d3fn19Gb/Deacon-PFP.png",
+      "category": "Twitch"
+    },
+    {
       "title": "Koi no Harmonia",
       "host": "Ovejita (Nagisa)",
-      "start_time": "20:00:00",
-      "end_time": "21:00:00",
+      "start_time": "22:00:00",
+      "end_time": "00:00:00",
       "image_url": "https://i.postimg.cc/LX96hGfw/ovejita-PFP.png",
       "category": "Radio"
     }
