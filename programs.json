@@ -1,4 +1,4 @@
-{
+a{
   "Lunes": [
     {
       "title": "Rising K-Chan",
@@ -19,12 +19,12 @@
       "category": "Radio"
     },
     {
-      "title": "Transmisión de Twitch",
-      "host": "Deacon",
-      "start_time": "19:00:00",
+      "title": "Frecuencia Trainer",
+      "host": "Anzuzekron",
+      "start_time": "21:00:00",
       "end_time": "22:00:00",
-      "image_url": "https://i.postimg.cc/d3fn19Gb/Deacon-PFP.png",
-      "category": "Twitch"
+      "image_url": "https://i.postimg.cc/BnJ8BzKc/Anzu-PFP.webp",
+      "category": "Radio"
     }
   ],
   "Miércoles": [
