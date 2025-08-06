@@ -1,14 +1,5 @@
 {
-  "Lunes": [
-    {
-      "title": "Rising K-Chan",
-      "host": "Laion",
-      "start_time": "13:30:00",
-      "end_time": "15:00:00",
-      "image_url": "https://i.postimg.cc/BbmczBh8/Laion-PFP.jpg",
-      "category": "Radio"
-    }
-  ],
+
   "Martes": [
     {
       "title": "Pop no Simphony",
@@ -55,7 +46,7 @@
       "category": "Twitch"
     },
     {
-      "title": "EveryBody Stand Up",
+      "title": "EveryBody Stand Up (Suspendido hasta Septiembre)",
       "host": "Reylish",
       "start_time": "22:00:00",
       "end_time": "23:00:00",
@@ -65,11 +56,11 @@
   ],
   "Viernes": [
     {
-      "title": "KS Last Releases!",
-      "host": "Ka",
-      "start_time": "11:30:00",
-      "end_time": "12:00:00",
-      "image_url": "https://i.postimg.cc/BvDt7tdS/02-HD-2024.png",
+      "title": "Risign K-chan!",
+      "host": "LaionMaou",
+      "start_time": "18:30:00",
+      "end_time": "20:30:00",
+      "image_url": "https://i.postimg.cc/BbmczBh8/Laion-PFP.jpg",
       "category": "Radio"
     },
     {
