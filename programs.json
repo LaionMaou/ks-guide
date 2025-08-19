@@ -27,16 +27,17 @@
       "image_url": "https://i.postimg.cc/xjmFcqjr/pancito-pfp.png",
       "category": "Radio"
     }
-  ],
-  "Jueves": [
+    
     {
       "title": "Transmisión en Twitch",
       "host": "Ingus",
-      "start_time": "00:00:00",
-      "end_time": "01:00:00",
+      "start_time": "22:30:00",
+      "end_time": "00:00:00",
       "image_url": "https://i.postimg.cc/Nf6Vf3KY/Ingus-PFP.png",
       "category": "Twitch"
     },
+  ],
+  "Jueves": [
     {
       "title": "EveryBody Stand Up (Suspendido hasta Septiembre)",
       "host": "Reylish",
