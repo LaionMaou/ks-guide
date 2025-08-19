@@ -20,18 +20,10 @@
   ],
   "Miércoles": [
     {
-      "title": "The Crazy Show",
-      "host": "Luchito Sama",
-      "start_time": "20:30:00",
-      "end_time": "22:00:00",
-      "image_url": "https://i.postimg.cc/s2JST4BV/63380b5465d02fe4a01e25ffd667879d.webp",
-      "category": "Radio"
-    },
-    {
       "title": "Senpai Sounds",
       "host": "Pancito Mojado",
-      "start_time": "22:00:00",
-      "end_time": "23:30:00",
+      "start_time": "21:00:00",
+      "end_time": "22:15:00",
       "image_url": "https://i.postimg.cc/xjmFcqjr/pancito-pfp.png",
       "category": "Radio"
     }
@@ -73,14 +65,6 @@
     }
   ],
   "Sábado": [
-    {
-      "title": "Transmisión de Twitch\t",
-      "host": "Deacon",
-      "start_time": "19:00:00",
-      "end_time": "22:00:00",
-      "image_url": "https://i.postimg.cc/d3fn19Gb/Deacon-PFP.png",
-      "category": "Twitch"
-    },
     {
       "title": "Koi no Harmonia",
       "host": "Ovejita (Nagisa)",
