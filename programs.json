@@ -2,14 +2,6 @@
 
   "Martes": [
     {
-      "title": "Pop no Simphony",
-      "host": "Mitawi",
-      "start_time": "15:00:00",
-      "end_time": "18:00:00",
-      "image_url": "https://i.postimg.cc/tg7By4vM/Mitawi-PFP.png",
-      "category": "Radio"
-    },
-    {
       "title": "Frecuencia Trainer",
       "host": "Anzuzekron",
       "start_time": "21:00:00",
@@ -37,14 +29,6 @@
     }
   ],
   "Jueves": [
-    {
-      "title": "EveryBody Stand Up (Suspendido hasta Septiembre)",
-      "host": "Reylish",
-      "start_time": "22:00:00",
-      "end_time": "23:00:00",
-      "image_url": "https://i.postimg.cc/65NbRwT8/Reylish-pfp.webp",
-      "category": "Radio"
-    }
   ],
   "Viernes": [
     {
