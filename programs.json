@@ -28,6 +28,16 @@
       "category": "Twitch"
     }
   ],
+   "Jueves": [
+    {
+      "title": "EveryBody Stand Up",
+      "host": "Reylish",
+      "start_time": "22:00:00",
+      "end_time": "23:00:00",
+      "image_url": "https://i.postimg.cc/65NbRwT8/Reylish-pfp.webp",
+      "category": "Radio"
+    }
+  ],
   "Viernes": [
     {
       "title": "Risign K-chan!",
