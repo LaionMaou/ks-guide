@@ -1,4 +1,14 @@
 {
+  "Lunes": [
+    {
+      "title": "El culto a la pereza",
+      "host": "El Kamikaze",
+      "start_time": "20:30:00",
+      "end_time": "21:15:00",
+      "image_url": "https://i.postimg.cc/BnK7Rx2Y/Kamikaze-PFP.png",
+      "category": "Radio"
+    }
+  ],
   "Miércoles": [
     {
       "title": "Senpai Sounds",
